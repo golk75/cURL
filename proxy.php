@@ -1,5 +1,5 @@
 <?php
-$url = 'https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8';
+$url = 'https://mdstrm.com/live-stream-playlist/61087e5b8e21e304a159211e.m3u8';
 $proxyauth = 'user:pass';
 $proxy = '154.205.152.96';
 $proxyPort = '8080';
